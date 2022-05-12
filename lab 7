@@ -1,0 +1,9 @@
+#Hola people
+import math
+
+archivo = open("real.txt")
+lineas = archivo.readline()
+for line in lineas:
+    print (lineas)
+
+archivo.close()
