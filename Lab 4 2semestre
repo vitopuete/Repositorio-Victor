@@ -1,0 +1,5 @@
+Lo que entiendo del program Blink Led es que hace que una led con salida 9 se prenda con intervalos de 1 segundo sucesivamente sin parar en ningun momento a no ser que 
+se le indique. Aprendi Ha hacer eesto en Arduino pero no logro que se prenda la luz (creo que me equivoque en el codigo. "Una vez cargado el programa en la placa,
+estando el terminal del LED conectado a la salida Di 9 (PB1), se debe presionar reset para el comienzo del programa."
+
+www.arduino.cl/ejemplo-blnk
